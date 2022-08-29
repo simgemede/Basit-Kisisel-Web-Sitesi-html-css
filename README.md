@@ -1,1 +1,1 @@
-# Basit-Ki-isel-Web-Sitesi-html-css
+# Basit-Kisisel-Web-Sitesi-html-css
